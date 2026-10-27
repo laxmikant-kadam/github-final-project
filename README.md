@@ -1,13 +1,9 @@
-# Introduction to Git and GitHub
+# GitHub Final Project
 
-## Simple Interest Calculator
+This repository is my final project for the Git and GitHub course. It demonstrates working with the GitHub UI and the Git command line.
 
-A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
-
-Input:
-- p: principal amount
-- t: time period in years
-- r: annual rate of interest
-
-Output:
-- Simple interest = p * t * r
+## Contents
+- LICENSE (Apache 2.0)
+- CODE_OF_CONDUCT.md
+- CONTRIBUTING.md
+- simple-interest.sh (Bash simple interest calculator)
